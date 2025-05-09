@@ -56,8 +56,7 @@ I'm open to:
 - 🧑‍🏫 Mentorship/Teaching opportunities
 - 🧪 Part-time software dev or QA roles
 
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/
-reginald-cosens-3rd)
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/reginald-cosens-3rd)
  or via email ReginaldCosensIII@gmail.com!
 
 ---
