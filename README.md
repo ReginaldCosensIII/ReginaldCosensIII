@@ -29,19 +29,19 @@ A complete modernization of the CES corporate website and supporting systems.
 - Contact form improvements and backend workflow modernization  
 - Deployment to CES’s internal IIS production infrastructure  
 
-🔗 **Live Site:** https://cesitservice.com  
+🔗 **Live Site:** https://www.cesitservice.com  
 
 ---
 
 ### **⚙️ RSI (Radiometric Services & Instruments) – Full Website Rebuild**
 **Tech:** ASP.NET Core 8, Razor Pages, reCAPTCHA, SMTP, JSON-LD, CSS, JS  
-A full rebuild of the RSI corporate website (scheduled to go live this week).  
+A full rebuild of the RSI corporate website.  
 - Secure backend with structured validation and HTML/plaintext email templates  
 - 40+ dynamic product pages with complete SEO (JSON-LD, OG/Twitter cards)  
 - Mobile-optimized UI and performance scoring above 90 in Lighthouse  
 - Full production documentation: ARCHITECTURE.md, SECURITY.md, STATUS.md  
 
-🔗 **Live Site (Legacy Version Until Launch):** https://rsi-xray.com  
+🔗 **Live Site:** https://www.rsi-xray.com  
 
 ---
 
@@ -65,8 +65,8 @@ A creative software tool for generating custom knit and crochet stitch charts.
 - Branding, marketing site, and beta onboarding systems in progress  
 - Designed for creators, fiber artists, and makers  
 
-🔗 **Staging Tool:** https://blanket-smith.vercel.app/  
-🔗 **Landing Page (In Development):** https://blanket-smith-ox9g.vercel.app/  
+🔗 **Staging Tool:** https://www.blanket-smith.vercel.app/  
+🔗 **Landing Page (In Development):** https://www.blanket-smith-ox9g.vercel.app/  
 
 ---
 
@@ -78,8 +78,8 @@ A full-stack bookstore and inventory management system.
 - Admin controls for inventory and user management  
 - SQLAlchemy integration + architecture refactoring  
 
-🔗 **GitHub Repo:** https://github.com/ReginaldCosensIII/cs492_bookstore_project  
-🎮 **Live Demo:** https://cs492-bookstore-project.onrender.com  
+🔗 **GitHub Repo:** https://www.github.com/ReginaldCosensIII/cs492_bookstore_project  
+🎮 **Live Demo:** https://www.cs492-bookstore-project.onrender.com  
 
 ---
 
@@ -98,7 +98,7 @@ PostgreSQL • Supabase • SQLite • SQLAlchemy ORM
 Git/GitHub • Vercel • Azure • IIS • Render • reCAPTCHA  
 OpenAI APIs • SMTP Email Services • CI/CD Pipelines  
 Structured Logging • Environment Configurations  
-Documentation (README, SECURITY.md, ARCHITECTURE.md)
+Documentation
 
 ---
 
